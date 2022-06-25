@@ -9,4 +9,7 @@ Paper: https://link.springer.com/article/10.1007/s13278-022-00863-2
 
 The Jupyter Notebook labelled "Network of Genres.ipynb" was used in our paper to generate the network of genres. 
 
-The data used for the notebook was obtained from Encyclopedia Metallum, and was preprocessed using the dependency parsing method as illustrated in our paper, before generating the eventual genre network. 
+
+
+## Data
+The data used for the notebook was obtained from Encyclopedia Metallum (https://www.metal-archives.com), and was preprocessed using the dependency parsing method as illustrated in our paper, before generating the eventual genre network. The data provided in this repository (user_genre_data.csv) is a subsegment of the overall data used, where only the user, list of genres and review score are provided. 
